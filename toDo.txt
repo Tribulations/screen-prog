@@ -1,0 +1,6 @@
+FIxa ett progg som söker igenom vilka datum som missats ladda hem data 
+för varje aktie.
+
+Fixa sedan progg som tankar hem datan från nasdaqs egna "API" för de dagar
+som saknas.
+
